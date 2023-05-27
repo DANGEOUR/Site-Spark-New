@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&family=Edu+NSW+ACT+Foundation:wght@500&family=Kanit&family=Pacifico&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: 'Baloo Bhai 2', cursive;
+}
+html{
+    scroll-behavior: smooth;
+}
